@@ -1,4 +1,10 @@
-# Codex Agent Coordination Kit
+# init
+
+this is my current configuration for my agents and overall workflow. with many of the tools that i use and will use in the future, willing to update these maybe depending of what tools ill be using. will leave it public unless something is really private.
+
+# Summary
+
+> The following content is SLOP generated
 
 A portable setup for coordinating concurrent Codex CLI work with Agent Mesh, MCP Agent Mail, and Git worktrees.
 
