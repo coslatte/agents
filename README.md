@@ -4,7 +4,7 @@ this is my current configuration for my agents and overall workflow. with many o
 
 # Summary
 
-> The following content is SLOP generated
+> The following is _slop_ generated
 
 A portable setup for coordinating concurrent Codex CLI work with Agent Mesh, MCP Agent Mail, and Git worktrees.
 
